@@ -4,10 +4,10 @@
     <option name="connections">
       <list>
         <IlluminatedCloudConnection>
-          <option name="connectionName" value="GettingStartedWithSFDX" />
-          <option name="connectionType" value="OAUTH" />
+          <option name="connectionName" value="gsw-sfdx" />
+          <option name="connectionType" value="SFDX" />
           <option name="defaultModuleName" value="GSW-sfdx" />
-          <option name="offlineSymbolTablePath" value="$PROJECT_DIR$/IlluminatedCloud/GettingStartedWithSFDX/OfflineSymbolTable.zip" />
+          <option name="offlineSymbolTablePath" value="$PROJECT_DIR$/IlluminatedCloud/gsw_sfdx/OfflineSymbolTable.zip" />
         </IlluminatedCloudConnection>
       </list>
     </option>

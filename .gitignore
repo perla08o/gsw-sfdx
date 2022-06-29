@@ -43,3 +43,5 @@ $RECYCLE.BIN/
 /IlluminatedCloud/
 /out/
 target/
+/force-app/main/default/profiles/
+/force-app/main/default/layouts/
